@@ -1,0 +1,70 @@
+*{
+    background-color: #ffea7f;
+}
+
+.titulo_principal {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-style: italic;
+
+}
+
+/* Configurando o rodapé */
+
+.subtitulo{        
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    font-style: italic;
+    margin-top: 40%;
+}
+
+/* configurando as divs */
+
+ .div{ display: inline-block;
+        border: 1px solid white;
+        width: 130px;
+        height: 130px;
+        margin: -2px;
+    
+}   
+
+/* mover todos os blocos juntos de uma vez*/
+
+.seção{       
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+/*trabalhando com as cores dos blocos*/
+
+.Vermelho{
+    
+    background-color: red;
+   
+}
+
+.Azul{
+    background-color: blue;
+   
+}
+
+.Verde{
+    
+    background-color: green;
+ 
+}
+
+.Amarelo{
+  
+    background-color: yellow;
+    
+}
+
+/* Configurando a borda dos blocos */
+
+#borda{
+    border: 1px solid black;
+}
