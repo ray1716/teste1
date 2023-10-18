@@ -1,5 +1,5 @@
 *{
-    background-color: #ffea7f;
+    background-color: aquamarine;
 }
 
 .titulo_principal {
@@ -22,7 +22,7 @@
 
 /* configurando as divs */
 
- .div{ display: inline-block;
+ div{ display: inline-block;
         border: 1px solid white;
         width: 130px;
         height: 130px;
@@ -68,3 +68,8 @@
 #borda{
     border: 1px solid black;
 }
+
+
+
+
+
